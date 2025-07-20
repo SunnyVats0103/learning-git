@@ -1,2 +1,2 @@
-# learning-git
+# LEARNING GIT
 Test repository

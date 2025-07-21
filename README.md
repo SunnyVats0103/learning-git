@@ -5,6 +5,7 @@ Test repository
 
  - git init
  - git add <file-name>
+ - git config set --global user.email "email"
 
 ### Commands Usage
 
